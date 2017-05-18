@@ -1,7 +1,7 @@
 {
-  "name": "wordpress-component",
-  "version": "1.0.1",
-  "description": "wordpress-component React component",
+  "name": "wordpress-components",
+  "version": "1.0.0",
+  "description": "wordpress-components React component",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [

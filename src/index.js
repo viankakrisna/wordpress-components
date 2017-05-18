@@ -8,7 +8,7 @@ import qs from 'qs';
 
   import React from 'react';
   import { render } from 'react-dom';
-  import WordPress from './wordpress-component';
+  import WordPress from './wordpress-components';
 
   const wp = new WordPress({
     base: 'https://example.com/',
